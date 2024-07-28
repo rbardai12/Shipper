@@ -1,7 +1,7 @@
 # Shipper
 
-# Usage
-The Shipper program allows the user to pass in a package tracking number to the program. From there, the program will automatically open the default web browswer to give the user a quick display of the package's status. Shipper allows users to track packages with the click of a button and reeduces the user's need to look up infromation manually. 
+# Information
+The Shipper program allows the user to pass in a package tracking number to the program. From there, the program will automatically open the default web browswer to give the user a quick display of the package's status. Shipper allows users to track packages with the click of a button and reduces the user's need to look up information manually. 
 
 # Requirements
 Python must be downloaded
